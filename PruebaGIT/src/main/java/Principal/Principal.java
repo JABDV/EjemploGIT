@@ -9,6 +9,7 @@ public class Principal {
 		
 		System.out.println("Version editada por un becario incompetente");
 		
+		System.out.println("Trabajo en equipo");
 	}
 
 }
