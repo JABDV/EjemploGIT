@@ -7,6 +7,8 @@ public class Principal {
 		
 		System.out.println();
 		
+		System.out.println("Version editada por un becario incompetente");
+		
 	}
 
 }
