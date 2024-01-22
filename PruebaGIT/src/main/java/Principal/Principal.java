@@ -7,6 +7,8 @@ public class Principal {
 		
 		System.out.println("Sigue trabajando en la rama master");
 		
+		System.out.println("Version editada por un becario incompetente");
+		
 	}
 
 }
